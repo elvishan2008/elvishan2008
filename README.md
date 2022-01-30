@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<a href="https://five-taleggio-38d.notion.site/Quantum-leap-ed803f912efe4d0889e02dc08d5a7869" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-79edff?style=plastic&logo=&logoColor=392f31"/></a>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvishan2008&show_icons=true&theme=radical)
 
 <!--
