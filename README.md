@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 <a href="https://five-taleggio-38d.notion.site/Quantum-leap-ed803f912efe4d0889e02dc08d5a7869" target="_blank">
-  <img src="https://img.shields.io/badge/79edff?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-
-<a href="https://five-taleggio-38d.notion.site/Quantum-leap-ed803f912efe4d0889e02dc08d5a7869" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-79edff?style=plastic&logo=http://www.w3.org/2000/svg&logoColor=392f31"/></a>
+  <img src="https://img.shields.io/badge/Notion-79edff?style=plastic&logo=&logoColor=392f31"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvishan2008&show_icons=true&theme=radical)
@@ -12,6 +9,9 @@
 <!--
 **elvishan2008/elvishan2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
